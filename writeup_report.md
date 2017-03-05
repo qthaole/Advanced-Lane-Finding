@@ -18,23 +18,23 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[undistort1]: ./output_images/undistort1.png "Undistorted"
-[undistort2]: ./output_images/undistort2.png "Undistorted"
+[undistort1]: ./undistort1.png "Undistorted"
+[undistort2]: ./undistort2.png "Undistorted"
 
-[bin3]: ./output_images/bin3.png "Binary Image"
-[bin4]: ./output_images/bin4.png "Binary Image"
-[bin5_color_and_others]: ./output_images/bin5_color_and_others.png "Binary Image"
-[bin1_yellow]: ./output_images/bin1_yellow.png "Binary Image - Yellow lane retained"
-
-
-
-[bin_transformed1]: ./output_images/bin_transformed1.png "Transformed Binary Image"
+[bin3]: ./bin3.png "Binary Image"
+[bin4]: ./bin4.png "Binary Image"
+[bin5_color_and_others]: ./bin5_color_and_others.png "Binary Image"
+[bin1_yellow]: ./bin1_yellow.png "Binary Image - Yellow lane retained"
 
 
 
-[warped3]: ./output_images/warped3.png "Warped Image"
-[polyfit3]: ./output_images/polyfit3.png "Polyfit Image"
-[filled_lane]: ./output_images/filled_lane.png "Filled lane Image"
+[bin_transformed1]: ./bin_transformed1.png "Transformed Binary Image"
+
+
+
+[warped3]: ./warped3.png "Warped Image"
+[polyfit3]: ./polyfit3.png "Polyfit Image"
+[filled_lane]: ./filled_lane.png "Filled lane Image"
 
 
 
